@@ -1,6 +1,6 @@
 # PROJETO JOGO DETONA RALPH
 
-<img src="tela-inicial.PNG" alt="Exemplo imagem">
+<img src="Capturar.PNG" alt="Tela de jogo">
 
 > Projeto foi desenvolvido durante o Bootcamp Potência Tech Ifood - desenvolvimento de jogos, em parceria com a DIO e consiste no desenvolvimento de um jogo, em que o objetivo é acertar o boneco do Ralph que vai aparecendo de forma aleatória dentro do tabuleiro. O usuário tem 1 minuto para atingi-lo o máximo de vezes possíveis.
 
