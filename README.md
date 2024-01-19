@@ -23,8 +23,6 @@ Para jogar o Detona Ralph siga estas etapas:
 
 - Abra o link: https://maurochavesjr.github.io/detona-ralph/
 
-## 📫 Contribuindo para o Jogo Detona Ralph
-
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
